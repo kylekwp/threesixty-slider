@@ -740,7 +740,7 @@
        * Domain from where assets needs to be loaded. Use this propery is you want to load all assets from
        * single domain.
        */
-      domain: '',
+      domain: 'http://tne4global.com/',
       /**
        * @cfg {Boolean} parallel
        * Set to true if you want to load assets from parallel domain. Default false
